@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->                                       
 
 <html>
-<h2>Hi there 👋</h2>
+<h2>Hi there 👋 || Merhaba 👋</h2>
     <div class="container">
             <h2>  You can see images of some apps below of the tab if you click to WIKI tab of repository.</h2>
             <h2>  Bazı uygulamaların resimlerini repositorylerin WIKI sekmesinin alt bölümlerinde görebilirsiniz.</h2>
