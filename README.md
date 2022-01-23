@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->                                       
 
-```html
+<html>
 <h2>Example of code</h2>
 
 <pre>
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
         </div>
     </div>
 </pre>
-```
+</html>
