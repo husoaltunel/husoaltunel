@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 <h2>Hi there 👋</h2>
     <div class="container">
             <h2>  YOU CAN SEE IMAGES OF SOME APPS BELOW OF THE TAB IF YOU CLICK TO WIKI TAB OF REPOSITORY.</h2>
+            <h2>  Bazı uygulamaların resimlerini repositorylerin WIKI sekmesinin alt bölümlerinde görebilirsiniz.</h2>
     </div>
 </html>
