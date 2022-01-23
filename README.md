@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **husoaltunel/husoaltunel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,8 @@ Here are some ideas to get you started:
 -->                                       
 
 <html>
-<h2>Example of code</h2>
-
-<pre>
+<h4>Hi there 👋</h4>
     <div class="container">
-        <div class="block two first">
             <h2>  YOU CAN SEE IMAGES OF SOME APPS BELOW OF THE TAB IF YOU CLICK TO WIKI TAB OF REPOSITORY.</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
     </div>
-</pre>
 </html>
